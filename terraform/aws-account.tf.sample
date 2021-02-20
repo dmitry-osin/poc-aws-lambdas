@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Terraform AWS Account
+#-----------------------------------------------------------
+variable "aws_access_key" {
+  default     = "your_aws_access_key_here"
+}
+
+variable "aws_secret_key" {
+  default     = "your_aws_secret_key_here"
+}
+
+variable "aws_region" {
+  default     = "eu-central-1"
+}

@@ -1,0 +1,11 @@
+/.idea/
+
+/lambdas/env/
+/lambdas/.idea/
+
+/terraform/gen/
+/terraform/.terraform
+/terraform/.terraform.lock.hcl
+/terraform/aws-account.tf
+/terraform/terraform.tfstate.backup
+/terraform/terraform.tfstate
